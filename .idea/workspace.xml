@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0fcabe67-0232-452b-b26c-2b377b744308" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BSInTwoDMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BS_inRotatedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Binary_Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bubble_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cycle_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Disappearing_Nums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Even_Digits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FakaClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Find_Min.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstAndLastIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Floor_And_Celing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreatestChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Insertion_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/More_nested_try_catch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiDimArrList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiDimArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NPR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nested_try_catch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PatternArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QstnOf12kk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reverse_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Richest_Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchInStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search_In_Range.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search_in_2D_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Selection_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrAndStrBldr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strictly_Sorted_Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThreadClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TryAndCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prime_in_Range.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KarY6YgFvVc5a7asgQnn9EZmtH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/soumu/Downloads/visualizer_plugin-2.2.1.zip&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.prime_in_Range">
+    <configuration name="Cycle_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cycle_Sort" />
+      <module name="dsa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Disappearing_Nums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Disappearing_Nums" />
+      <module name="dsa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Insertion_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Insertion_Sort" />
+      <module name="dsa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selection_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Selection_Sort" />
+      <module name="dsa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prime_in_Range" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prime_in_Range" />
+      <module name="dsa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.prime_in_Range" />
+        <item itemvalue="Application.Disappearing_Nums" />
+        <item itemvalue="Application.Cycle_Sort" />
+        <item itemvalue="Application.Insertion_Sort" />
+        <item itemvalue="Application.Selection_Sort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fcabe67-0232-452b-b26c-2b377b744308" name="Changes" comment="" />
+      <created>1674223586257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674223586257</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
