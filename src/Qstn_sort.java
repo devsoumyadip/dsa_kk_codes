@@ -1,6 +1,9 @@
+import Sorting.AllSort;
+
 public class Qstn_sort {
     public static void main(String[] args) {
-
+        int[] arr={3,4,1,61,12,7};
+        sortC(arr);
     }
     static int sortC(int[] arr){
 
@@ -9,7 +12,7 @@ public class Qstn_sort {
         while(i<arr.length){
             int corrIndx=arr[i]-1;
             if (arr[i] != arr[corrIndx]){
-                AllSort.swap(arr,i,corrIndx);
+                swap(arr,i,corrIndx);
             }
         }
         //search for the missing
@@ -19,5 +22,10 @@ public class Qstn_sort {
             }
         }
         return arr.length;
+    }
+    static void swap(int[] arr,int first,int second){
+        int temp=arr[first];
+        arr[first]=arr[second];
+        arr[second]=temp;
     }
 }

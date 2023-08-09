@@ -11,11 +11,11 @@ public class BSInTwoDMatrix {
         int[][] mat2={
                 {1}
         };
-        int target=0;
+        int target=38;
         System.out.println(Arrays.toString(BsearchInTwoD(matrix, target)));
 
     }
-    static int[] BsearchInTwoD(int[][] arr,int target){          //each row is incrising,,each column is increasing
+    static int[] BsearchInTwoD(int[][] arr,int target){          //each row is increasing,,each column is increasing
          int row=0;
          int col=arr.length-1;
          while(row< arr.length && col>=0){

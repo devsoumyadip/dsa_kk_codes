@@ -29,7 +29,7 @@ public class BS_inRotatedArray {
     }
     static int binarySrch(int[] arr,int target,int start,int end){                 //for arrays which are sorted in ascending order
 
-        //searching for mid element
+        //searching for mid-element
         while (start<=end){
             int mid=start+(end-start)/2;
             if (target<arr[mid]){

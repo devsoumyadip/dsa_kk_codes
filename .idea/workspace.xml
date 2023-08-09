@@ -5,50 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0fcabe67-0232-452b-b26c-2b377b744308" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dsa.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BSInTwoDMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BS_inRotatedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Binary_Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bubble_Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cycle_Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Disappearing_Nums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Even_Digits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FakaClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Find_Min.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FirstAndLastIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Floor_And_Celing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GreatestChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Insertion_Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/More_nested_try_catch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiDimArrList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiDimArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NPR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nested_try_catch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatternArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QstnOf12kk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reverse_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Richest_Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchInStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search_In_Range.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Search_in_2D_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Selection_Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrAndStrBldr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strictly_Sorted_Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwitchCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TryAndCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prime_in_Range.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/Asc_binary_search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/BS_in_2d_matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/Order_Agnostic_BS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Math_ForDS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaxNumOfPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion_Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Remove_Elements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringCanBeEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WeightCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calsoft_Sample/NumToWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/Vector_example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumExample/Example_enum1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linked_lists/Circular_LL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linked_lists/Circular_LL_Use.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linked_lists/DLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linked_lists/DLL_use.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linked_lists/LL_Use.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linked_lists/SLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linked_lists/SingleLL_Implmnt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matrixQuestions/DiagonalOfMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matrixQuestions/SearchInMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nqtPrep/PrimeCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nqtPrep/SwapArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursions/AsciiValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursions/Backtracking/AllPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursions/Backtracking/N_Queens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursions/Backtracking/PathWithObstacle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursions/Backtracking/Show_all_paths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursions/Backtracking/mazePath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursions/SkipChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursions/SkipWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursions/SubSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AllSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/AllSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BSInTwoDMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BSInTwoDMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Qstn_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Qstn_sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/DSA/AllSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/DSA/BSInTwoDMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/DSA/BSInTwoDMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/DSA/StrAndStrBldr.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/DSA/StrAndStrBldr.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +68,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2KarY6YgFvVc5a7asgQnn9EZmtH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -77,16 +80,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/soumu/Downloads/visualizer_plugin-2.2.1.zip&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/soumu/Downloads/visualizer_plugin-2.2.1.zip",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.prime_in_Range">
     <configuration name="Cycle_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Cycle_Sort" />
