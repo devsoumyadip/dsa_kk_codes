@@ -53,7 +53,7 @@ public class AllSort {
     static void cycleS(int[] arr){
         int i=0;
         while (i<arr.length){
-            int correctIndex=arr[i]-1;
+            int correctIndex=arr[i]-1;  //correct index of arr[i].
             if (arr[i] != arr[correctIndex]){
                 swap(arr,i,correctIndex);
             }
